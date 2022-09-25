@@ -10,7 +10,7 @@
     "build": "node ./builds/addMarkdown.js && node ./node_modules/vuepress/cli.js build docs && node ./builds/delMarkdown.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "krialy",
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.2"

@@ -18,7 +18,7 @@ footer: KrialY-Blog
   
 ## 🍬 我的博客
 
-> 项目地址：[https://github.com/KrialY/blog
+> 项目地址：https://github.com/KrialY/LearnAndRecord
 
 - 个人项目
   - [WeShare图片分享网站Github](https://github.com/KrialY/weShare)
