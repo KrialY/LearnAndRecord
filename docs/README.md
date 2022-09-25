@@ -12,10 +12,10 @@ features:
 #   details: 学习要静下心来，一口吃不成大胖子
 footer: KrialY-Blog
 ---
-  <img src="http://cdn.krialy.com/webpack.jpeg" style="width:32%;" />
-  <img src="http://cdn.krialy.com/js.png" style="width:32%;" />
-  <img src="http://cdn.krialy.com/webpack-reverse.jpg" style="width:32%;" />
+  <img src="./static/images/js.png" style="width:25%;opacity: 0" />
+  <img src="./static/images/js.png" style="width:50%;" />
 
+  
 ## 🍬 我的博客
 
 > 项目地址：[https://github.com/KrialY/blog
