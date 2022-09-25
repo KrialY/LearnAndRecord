@@ -15,7 +15,7 @@ module.exports = {
       href: '/img/watermelon.ico'
     }]
   ],
-  base: '/blog/', // 部署到github会用到的配置
+  base: '/LearnAndRecord/', // 部署到github会用到的配置
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
