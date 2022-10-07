@@ -39,11 +39,15 @@ const nav = [
   {
     text: '前端',
     items: [{
-        text: '基础知识',
+        text: 'JavaScript',
         link: '/PAGE/JavaScript创建对象的方法/',
       },
       {
-        text: 'Vuejs',
+        text: 'React',
+        link: '/PAGE/React核心架构Fiber解析——入门篇/',
+      },
+      {
+        text: 'Vue',
         link: '/PAGE/实现基础的Vuejs/',
       },
       {

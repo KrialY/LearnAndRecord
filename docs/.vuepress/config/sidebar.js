@@ -1,28 +1,36 @@
-const 前端 = [{
-  title: "JavaScript",
-  collapsable: false,
-  children: [
-    ['javascript/JavaScript创建对象的方法.md', 'JavaScript创建对象的方法'],
-    ['javascript/JS实现异步编程的4种方法.md', 'JS实现异步编程的4种方法'],
-    ['javascript/前端工程化的理解.md', '前端工程化的理解'],
-    ['javascript/2020-07-17-深拷贝与函数只执行一次.md', '深拷贝与函数只执行一次'],
-    ['javascript/2020-07-17-JS原型与原型链.md', 'JS原型与原型链'],
-    ['javascript/2020-07-17-函数节流与防抖.md', '函数节流与防抖'],
-    ['javascript/2020-07-17-实现私有方法.md', '实现私有方法'],
-    ['javascript/2020-07-18-String()，new-String()以及单引号与双引号.md', 'String()，new-String()以及单引号与双引号'],
-    ['javascript/2020-07-21-函数柯里化.md', '函数柯里化'],
-    ['javascript/2020-07-21-Object.defineProperty之数据劫持.md', 'Object.defineProperty之数据劫持'],
-    ['javascript/2020-07-21-利用Proxy实现数据绑定.md', '利用Proxy实现数据绑定'],
-    ['javascript/2020-07-21-自定义arr.slice方法.md', '自定义arr.slice方法'],
-    ['javascript/2020-07-22-使用defineProperty实现Proxy.md', '使用defineProperty实现Proxy'],
-    ['javascript/2020-08-01-Array.prototype.reduce用法.md', 'Array.prototype.reduce用法'],
-    ['javascript/2020-08-01-Array.prototype.filter用法.md', 'Array.prototype.filter用法'],
-    ['javascript/2020-08-01-3种版本的ajax封装.md', '3种版本的ajax封装'],
-    ['javascript/2020-08-01-生成器.md', '生成器'],
-    ['javascript/2020-08-01-Promise简单实现.md', 'Promise简单实现'],
-    ['javascript/2020-08-02-js中的继承.md', 'js中的继承'],
-  ]
-}];
+const 前端 = [
+  {
+    title: "JavaScript",
+    collapsable: true,
+    children: [
+      ['javascript/JavaScript创建对象的方法.md', 'JavaScript创建对象的方法'],
+      ['javascript/JS实现异步编程的4种方法.md', 'JS实现异步编程的4种方法'],
+      ['javascript/前端工程化的理解.md', '前端工程化的理解'],
+      ['javascript/2020-07-17-深拷贝与函数只执行一次.md', '深拷贝与函数只执行一次'],
+      ['javascript/2020-07-17-JS原型与原型链.md', 'JS原型与原型链'],
+      ['javascript/2020-07-17-函数节流与防抖.md', '函数节流与防抖'],
+      ['javascript/2020-07-17-实现私有方法.md', '实现私有方法'],
+      ['javascript/2020-07-18-String()，new-String()以及单引号与双引号.md', 'String()，new-String()以及单引号与双引号'],
+      ['javascript/2020-07-21-函数柯里化.md', '函数柯里化'],
+      ['javascript/2020-07-21-Object.defineProperty之数据劫持.md', 'Object.defineProperty之数据劫持'],
+      ['javascript/2020-07-21-利用Proxy实现数据绑定.md', '利用Proxy实现数据绑定'],
+      ['javascript/2020-07-21-自定义arr.slice方法.md', '自定义arr.slice方法'],
+      ['javascript/2020-07-22-使用defineProperty实现Proxy.md', '使用defineProperty实现Proxy'],
+      ['javascript/2020-08-01-Array.prototype.reduce用法.md', 'Array.prototype.reduce用法'],
+      ['javascript/2020-08-01-Array.prototype.filter用法.md', 'Array.prototype.filter用法'],
+      ['javascript/2020-08-01-3种版本的ajax封装.md', '3种版本的ajax封装'],
+      ['javascript/2020-08-01-生成器.md', '生成器'],
+      ['javascript/2020-08-01-Promise简单实现.md', 'Promise简单实现'],
+      ['javascript/2020-08-02-js中的继承.md', 'js中的继承'],
+    ]
+  }, {
+    title: "React",
+    collapsable: true,
+    children: [
+      ['react/React核心架构Fiber解析——入门篇分析版.md', 'React核心架构Fiber解析——入门篇分析版']
+    ]
+  }
+];
 
 const 深度学习 = [{
     title: "深度学习",
